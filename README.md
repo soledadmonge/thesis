@@ -11,8 +11,8 @@ This thesis was done in collaboration with Deloitte, who have been kind enough t
 
 # Structure of repository
 - The folder **`/data`** contains:
-  - The original datasets provided by Deloitte, including sociodemographic and banking datasets (we were unable to upload the business data and shapefile because they exceed the size allowed on Git Hub)
-  - The **processed datasets** generated in `main.ipynb`.
+  - The original datasets provided by Deloitte, including sociodemographic and banking datasets. We were unable to upload the business data and shapefile because they exceed the size allowed on Git Hub, but you can access the file through this link: https://drive.google.com/drive/folders/1FqO2NVBoLpE6uLlmhYIPkJf8dN5UB8UW?usp=sharing)
+  - The **processed datasets** generated in `main.ipynb`: `df_merged.csv`, `madrid.csv`, `cataluna.csv`, `municipalities_madrid.geojson` and `municipalities_cataluna.geojson`.
 
 - The notebook **`main.ipynb`** contains the core workflow, including: data preprocessing and merging, Feature engineering, EDA, Zone score calculation and Clustering with HDBSCAN. 
 
