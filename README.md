@@ -10,5 +10,13 @@ This thesis was done in collaboration with Deloitte, who have been kind enough t
 
 
 # Structure of repository
+- The folder **`/data`** contains:
+  - The original datasets provided by Deloitte, including sociodemographic and banking datasets (we were unable to upload the business data and shapefile because they exceed the size allowed on Git Hub)
+  - The **processed datasets** generated in `main.ipynb`.
+
+- The notebook **`main.ipynb`** contains the core workflow, including: data preprocessing and merging, Feature engineering, EDA, Zone score calculation and Clustering with HDBSCAN. 
+
+- The notebook **`top10sectors.ipynb`** documents the methodology used to identify the top 10 economic sectors, including a ranking based on growth, size, profitability, and correlation with bank presence  
+
 
 
