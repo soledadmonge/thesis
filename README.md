@@ -19,9 +19,9 @@ This thesis was done in collaboration with Deloitte, who have been kind enough t
 
 - The notebook **`top10sectors.ipynb`** documents the methodology used to identify the top 10 economic sectors, including a ranking based on growth, size, profitability, and correlation with bank presence  
 
-- The tableau  **competitor Analysis_final.twb** visualizes model insights, including SHAP values vs branch distribution, market share comparisons, and regional branch maps (as shown in the example dashboard screenshot.
+- The tableau  **´competitor Analysis_final.twb´** visualizes model insights, including SHAP values vs branch distribution, market share comparisons, and regional branch maps (as shown in the example dashboard screenshot.
 
-- The pdf file **Master Thesis (1).pdf** contains the final written report for the project, summarizing the methodology, results, and strategic recommendations.
+- The pdf file **´Master Thesis (1).pdf´** contains the final written report for the project, summarizing the methodology, results, and strategic recommendations.
 
 
 
