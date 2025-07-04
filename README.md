@@ -21,7 +21,7 @@ This thesis was done in collaboration with Deloitte, who have been kind enough t
 
 - The tableau  **´competitor Analysis_final.twb´** visualizes model insights, including SHAP values vs branch distribution, market share comparisons, and regional branch maps (as shown in the example dashboard screenshot.
 
-- The pdf file **´Master Thesis (1).pdf´** contains the final written report for the project, summarizing the methodology, results, and strategic recommendations.
+- The pdf file **´Master_Thesis_Paper.pdf´** contains the final written report for the project, summarizing the methodology, results, and strategic recommendations.
 
 
 
