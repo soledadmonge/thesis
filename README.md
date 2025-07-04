@@ -15,7 +15,7 @@ This thesis was done in collaboration with Deloitte, who have been kind enough t
   - The **processed datasets** generated in `main.ipynb`: `df_merged.csv`, `madrid.csv`, `cataluna.csv`, `municipalities_madrid.geojson` and `municipalities_cataluna.geojson`.
   - `municipality_map_dict.xlsx`: INE dictionary with municipality names
 
-- The notebook **`main.ipynb`** contains the core workflow, including: data preprocessing and merging, Feature engineering, EDA, Zone score calculation and Clustering with HDBSCAN. 
+- The notebook**´final_main_nb_thesis.ipynb´** contains the core workflow, including: data preprocessing and merging, Feature engineering, EDA, Zone score calculation and Clustering with HDBSCAN. 
 
 - The notebook **`top10sectors.ipynb`** documents the methodology used to identify the top 10 economic sectors, including a ranking based on growth, size, profitability, and correlation with bank presence  
 
